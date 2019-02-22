@@ -1,4 +1,4 @@
-//s simple gravity ball simulation lab6,part A
+
 var x = 300;   // x 
 var y = 200;     // y l
 
